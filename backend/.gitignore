@@ -1,3 +1,8 @@
+# Ignore environment variables
 .env
+
+# Ignore project documentation (optional)
+project.md
+
+# Ignore dependencies
 node_modules/
-Project.md
